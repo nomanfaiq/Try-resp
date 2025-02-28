@@ -1,6 +1,13 @@
 The rainbow poem from the tutorial/ This is my first file in git hub and trying to learn here basically.
 Green.Blue.Black
 Adding the colour yellow now
+
+ Ik-hor
 "Now this time I have created new and first branch" ----------
 Now I have created 
 ik hor Branch --------
+
+"Now this time I have created new and first branch"
+More change
+in new
+
